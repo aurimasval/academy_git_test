@@ -15,3 +15,5 @@ Added first line for branch feature_2
 Added second line for branch feature_2
 
 Super feature line2
+
+Naujas pakeitimas is feature_4
